@@ -1,10 +1,10 @@
 # Quantitative EDA on Large-Cap Tech Equities
 
-A structured exploratory data analysis (EDA) pipeline for AAPL, GOOG, and MSFT that cleanly ingests price & volume data, computes and visualizes key metrics, uncovers seasonal and risk patterns, estimates market betas, and assembles a comprehensive feature matrix for downstream modeling or backtesting.
+A structured exploratory data analysis pipeline for AAPL, GOOG, and MSFT that cleanly ingests price and volume data, computes and visualizes key metrics, uncovers seasonal and risk patterns, estimates market betas, and assembles a comprehensive feature matrix for downstream modeling or backtesting.
 
 ---
 
-## 📈 Project Overview
+## Overview
 
 1. **Data Ingestion & Cleaning**  
    • Downloaded daily OHLC and volume via Yahoo Finance  
